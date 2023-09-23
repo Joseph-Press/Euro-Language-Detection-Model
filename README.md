@@ -21,7 +21,7 @@ This project aims to build a language detection model using the fastText library
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Install the requirements using `pip install -r requirements.txt`.
-4. Download the data from [here](http://www.statmt.org/europarl/). Alternatively use the csv files in the `data` folder.
+4. Download the data from [here](http://www.statmt.org/europarl/). Alternatively use the csv files in the `data` folder. The modified corpus data is from [here](https://www.kaggle.com/datasets/nltkdata/europarl?resource=download) 
 5. Run the scripts in the `scripts` folder to prepare the data and train the model.
 
 ## Scripts
